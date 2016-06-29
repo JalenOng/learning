@@ -6,4 +6,4 @@ if postgres user does not exist
   look into removing server
   re initialize server
   
-  
+make sure postgres is properly installed
