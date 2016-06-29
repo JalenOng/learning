@@ -1,3 +1,9 @@
 sudo -u postgres createuser chris -s
 
 https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-grant-permissions-in-postgresql-on-a-vps--2
+
+if postgres user does not exist
+  look into removing server
+  re initialize server
+  
+  
